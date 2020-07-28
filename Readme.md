@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Stanislav Dunaev](https://up.htmlacademy.ru/adaptive/20/user/602807).
-* Наставник: `Неизвестно`.
+* Наставник: `Кексобот`.
 
 ---
 
